@@ -1,2 +1,2 @@
 
-https://thelionblack.github.io/rsschool-cv/cv
+[GitHub](https://thelionblack.github.io/rsschool-cv/cv)
