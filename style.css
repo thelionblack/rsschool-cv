@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    font-size: 16px;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+    .introduce {
+        margin-top: 20px;
+    }
+
+        .introduce__photo img {
+            max-width: 50%;
+            max-height: 200px;
+            border-radius: 50%;
+        }
+
+        .introduce__text {
+            font-size: 18px;
+            color: black;
+        }
+main {
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+    h3 {
+        text-transform: uppercase;
+    }
+
+    .summary {
+        margin-top: 15px;
+    }
+
+        .summary__title {
+            border-bottom: 2px solid black;
+        }
+
+    .skills {
+        margin-top: 15px;
+    }
+
+        .skills__title {
+            border-bottom: 2px solid black;
+        }
+        
+    .education {
+        margin-top: 15px;
+    }
+
+        .education__title {
+            border-bottom: 2px solid black;
+        }
+
+    .englishlv {
+        margin-top: 15px;
+    }
+
+        .englishlv__title {
+            border-bottom: 2px solid black;
+        }
+
+    footer {
+        margin-top: 15px;
+        padding: 10px;
+        font-size: 18px;
+    }
