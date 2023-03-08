@@ -1,1 +1,1 @@
-## [My CV](https://thelionblack.github.io/rsschool-cv/cv)
+## [My page](https://thelionblack.github.io/rsschool-cv/)
